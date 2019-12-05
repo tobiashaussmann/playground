@@ -1,2 +1,3 @@
-# playground
-Playground Project Repository
+# Playground
+
+Playground Project Repository only for learning purpose.
